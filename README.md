@@ -5,4 +5,4 @@ easy_anno is a tool designed to make creating and saving map guide annotations l
 
 - [Watch the easy_anno demonstration video on YouTube](https://youtu.be/DPoonBCAjiw)
 
-![easy_anno usage demonstration GIF](https://i.imgur.com/iSPSvGo.gif)
+![easy_anno usage demonstration GIF](https://media.githubusercontent.com/media/jnav477/easy_anno/refs/heads/main/assets/demo_gifs/nuke.gif)
